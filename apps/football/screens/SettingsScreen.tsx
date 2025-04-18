@@ -1,0 +1,1 @@
+// Language toggle, fitness sync toggle, theme options

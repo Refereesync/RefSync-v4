@@ -1,0 +1,1 @@
+// Full sport config (football, rugby, etc.)

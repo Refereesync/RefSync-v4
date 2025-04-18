@@ -1,0 +1,1 @@
+// Full app root with navigation container
