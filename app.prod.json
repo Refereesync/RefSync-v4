@@ -1,0 +1,40 @@
+{
+    "expo": {
+      "name": "RefSync",
+      "slug": "refsync",
+      "version": "1.0.0",
+      "orientation": "portrait",
+      "userInterfaceStyle": "dark",
+      "icon": "./assets/refsync_logo_dark.png",
+      "splash": {
+        "image": "./assets/refsync_logo_dark.png",
+        "resizeMode": "contain",
+        "backgroundColor": "#1c1c1c"
+      },
+      "androidStatusBar": {
+        "barStyle": "light-content",
+        "backgroundColor": "#1c1c1c"
+      },
+      "assetBundlePatterns": ["**/*"],
+      "platforms": ["ios", "android", "web"],
+      "updates": {
+        "fallbackToCacheTimeout": 0
+      },
+      "ios": {
+        "supportsTablet": true
+      },
+      "android": {
+        "adaptiveIcon": {
+          "foregroundImage": "./assets/refsync_logo_dark.png",
+          "backgroundColor": "#1c1c1c"
+        }
+      },
+      "web": {
+        "favicon": "./assets/refsync_logo_dark.png"
+      },
+      "extra": {
+        "env": "production"
+      }
+    }
+  }
+  

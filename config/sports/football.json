@@ -1,0 +1,12 @@
+{
+    "name": "Football",
+    "events": ["goal", "assist", "yellow_card", "red_card", "substitution"],
+    "duration": 90,
+    "halfTime": true,
+    "sinBinEnabled": true,
+    "cards": {
+      "yellow": true,
+      "red": true
+    }
+  }
+  
